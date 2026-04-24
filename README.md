@@ -1,4 +1,4 @@
 # NewProject-demo
 This is my first repository
 <br> <br>
-Author - Pratik Koli
+Author - Pratik Koli akkol
